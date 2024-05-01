@@ -1,4 +1,4 @@
-#Ethical Hacking using John The Ripper
+# Ethical Hacking using John The Ripper
 
 This repository contains a set of shell scripts designed to facilitate the ethical hacking process using John the Ripper, a powerful password cracking tool. The project is divided into two main scripts: prerequisites.sh and pass_crack.sh, each serving a distinct purpose in the password cracking workflow.
 
